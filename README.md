@@ -1,5 +1,7 @@
 # Graph Algorithm Visualizer
 
+🔗 Live Demo: https://raufeken.github.io/graph-algorithm-visualizer/
+
 An interactive web-based visualization project for fundamental graph algorithms.
 
 ## Overview
@@ -7,6 +9,14 @@ An interactive web-based visualization project for fundamental graph algorithms.
 This project visualizes shortest path and minimum spanning tree algorithms step by step. Users can select a predefined graph, draw custom nodes and edges, assign edge weights, and observe algorithm execution visually.
 
 The project was developed as part of an Algorithms course.
+
+## Screenshots
+
+### Home Page
+![Home Page](assets/screenshots/homepage.png)
+
+### Visualization Screen
+![Visualization Screen](assets/screenshots/visualization-screen.png)
 
 ## Algorithms Included
 
@@ -41,6 +51,8 @@ graph-algorithm-visualizer/
 ├── app.js
 ├── assets/
 │   └── screenshots/
+│       ├── homepage.png
+│       └── visualization-screen.png
 └── README.md
 ```
 
